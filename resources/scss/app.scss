@@ -1,6 +1,28 @@
 @import 'bootstrap/scss/bootstrap';
 
+
 .imgLogo {
     height: auto;
     width: 80px;
 }
+
+.imgLost {
+    height: auto;
+    width: 80%;
+}
+
+.marginPerson{
+    margin-top: 100px !important;
+}
+
+.imgLogoFooter {
+    height: auto;
+    width: 150px;
+}
+
+@media only screen and (max-width: 599px) {
+    .text-center-cellfone {
+        text-align: center;
+    }
+}
+
