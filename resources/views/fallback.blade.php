@@ -13,31 +13,38 @@
     <header>
         <nav class="navbar col-12 m-auto navbar-expand-lg bg-body-tertiary fixed-top">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#"><img src="img/Logo.png " class="imgLogo"></a>
+                <a class="navbar-brand" href="#"><img src="img/Logo.png" class="imgLogo"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
-
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Home</a>
+                        <li class="nav-item mx-2">
+                            <a class="nav-link active" aria-current="page" href="/">Home</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item dropdown mx-2">
+                            <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Serviços
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">Sistemas de Gestão</a></li>
+                                <li><a class="dropdown-item" href="#">Criação de Sistemas</a></li>
+                                <li><a class="dropdown-item" href="#">Suporte de TI</a></li>
+                                <li><a class="dropdown-item" href="#">Infraestrutura de TI</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item mx-2">
+                            <a class="nav-link active" aria-current="page" href="/contato">Contato</a>
+                        </li>
+                        <li class="nav-item mx-2">
                             <a class="nav-link active" aria-current="page" href="#">Suporte</a>
                         </li>
-
-
                     </ul>
-
-                    <form class="d-flex" role="search">
-                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                        <button class="btn btn-outline-success" type="submit">Search</button>
-                    </form>
+                    <img src="img/Ideia.png" class="imgLogo d-none d-lg-block">
                 </div>
             </div>
         </nav>
+
     </header>
     <main class="mt-4 marginPerson">
         <div class="container-fluid">
@@ -52,7 +59,7 @@
                                 Esta página não foi encontrada ou pode ter sido descontinuada. Por favor, retorne à página inicial ou entre em contato com o suporte para obter assistência.
                             </h1>
                             <div class="text-center mt-5">
-                                <a href="#" class="btn btn-secondary btn-lg mx-4">Home</a>
+                                <a href="/" class="btn btn-secondary btn-lg mx-4">Home</a>
                                 <a href="#" class="btn btn-secondary btn-lg mx-4">Suporte</a>
                             </div>
                         </div>
@@ -70,8 +77,7 @@
                 <div class="col-md-4 col-12 text-center-cellfone">
                     <h5 class="text-dark">Contato</h5>
                     <p>Telefone: (XX) XXXX-XXXX</p>
-                    <p>Email: contato@exemplo.com</p>
-                    <p>Endereço: Av. Exemplo, 1234</p>
+                    <p>Email: vendas@sejatec.com.br</p>
                 </div>
                 <div class="col-md-5 col-12 text-center-cellfone">
                     <h5 class="text-dark">Quem Somos</h5>
@@ -82,8 +88,6 @@
             </div>
         </div>
     </footer>
-
-
 
 </body>
 

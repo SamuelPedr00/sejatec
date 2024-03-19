@@ -1,6 +1,5 @@
 @import 'bootstrap/scss/bootstrap';
 
-
 .imgLogo {
     height: auto;
     width: 80px;
@@ -20,9 +19,42 @@
     width: 150px;
 }
 
+.text-bg-dark {
+    transition: background-color 0.6s ease !important; 
+}
+
+.text-bg-dark:hover {
+    background-color: #ccc !important; 
+}
+
+.text-on-notebook{
+    display: none;
+}
+
 @media only screen and (max-width: 599px) {
     .text-center-cellfone {
         text-align: center;
     }
+    .imgLost {
+        height: auto;
+        width: 80%;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .imgPrincipal{
+        height: auto;
+        width: 90%;
+        margin: auto;
+        display: block;
+    }
 }
 
+@media screen and (min-width: 768px) and (max-width: 1500px) {
+    .hide-on-notebook {
+        display: none; /* Oculta os elementos com a classe hide-on-notebook */
+    }
+    .text-on-notebook{
+        display: block;
+    }
+}
