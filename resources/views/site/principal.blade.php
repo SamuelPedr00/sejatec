@@ -119,7 +119,7 @@
                 </div>
                 <div class="col-md-4 col-12 text-center-cellfone">
                     <h5 class="text-dark">Contato</h5>
-                    <p>Telefone: (XX) XXXX-XXXX</p>
+                    <p>Telefone: (62) 99304-4064</p>
                     <p>Email: vendas@sejatec.com.br</p>
                 </div>
                 <div class="col-md-5 col-12 text-center-cellfone">

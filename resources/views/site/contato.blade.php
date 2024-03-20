@@ -57,7 +57,7 @@
                             <div class="card">
                                 <div class="card-body">
                                     <h5 class="card-title">Solicite Orçamento por Whatsapp</h5>
-                                    <p class="card-text">Solicite seu orçamento através do WhatsApp no número (62) xxxxx-xxxx ou clique no botão abaixo.</p>
+                                    <p class="card-text">Solicite seu orçamento através do WhatsApp no número (62) 99304-4064 ou clique no botão abaixo.</p>
                                     <a href="#" class="btn btn-success">Vá para Whatsapp</a>
                                 </div>
                             </div>
@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-md-4 col-12 text-center-cellfone">
                     <h5 class="text-dark">Contato</h5>
-                    <p>Telefone: (XX) XXXX-XXXX</p>
+                    <p>Telefone: (62) 99304-4064</p>
                     <p>Email: vendas@sejatec.com.br</p>
                 </div>
                 <div class="col-md-5 col-12 text-center-cellfone">
