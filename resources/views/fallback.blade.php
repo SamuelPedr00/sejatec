@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     @vite(['resources/scss/app.scss', 'resources/js/app.js'])
+    <link rel="icon" href="img/icon.png" type="image/png">
     <title>FallBack</title>
 </head>
 
@@ -22,23 +23,22 @@
                         <li class="nav-item mx-2">
                             <a class="nav-link active" aria-current="page" href="/">Home</a>
                         </li>
+                        <li class="nav-item mx-2">
+                            <a class="nav-link active" aria-current="page" href="/contato">Contato</a>
+                        </li>
                         <li class="nav-item dropdown mx-2">
                             <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Serviços
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="#">Sistemas de Gestão</a></li>
-                                <li><a class="dropdown-item" href="#">Criação de Sistemas</a></li>
-                                <li><a class="dropdown-item" href="#">Suporte de TI</a></li>
-                                <li><a class="dropdown-item" href="#">Infraestrutura de TI</a></li>
+                                <li><a class="dropdown-item" href="sistemas">Sistemas de Gestão</a></li>
+                                <li><a class="dropdown-item" href="personalizados">Criação de Sistemas</a></li>
+                                <li><a class="dropdown-item" href="suporte">Suporte de TI</a></li>
+                                <li><a class="dropdown-item" href="infraestrutura">Infraestrutura de TI</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item mx-2">
-                            <a class="nav-link active" aria-current="page" href="/contato">Contato</a>
-                        </li>
-                        <li class="nav-item mx-2">
-                            <a class="nav-link active" aria-current="page" href="#">Suporte</a>
-                        </li>
+                        
+                        
                     </ul>
                     <img src="img/Ideia.png" class="imgLogo d-none d-lg-block">
                 </div>

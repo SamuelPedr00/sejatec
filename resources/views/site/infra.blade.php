@@ -48,7 +48,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-6 d-flex justify-content-center align-items-center">
-                    <img src="img/Suporte.png" class="imgPrincipal img-fluid">
+                    <img src="img/Infra.png" class="imgPrincipal img-fluid">
                 </div>
                 <div class="col-md-6 d-flex justify-content-center align-items-center">
                     <div class="row mt-3">
@@ -56,7 +56,7 @@
                             <div class="card">
                                 <img src="img/Suporte.png" class="card-img-top" alt="...">
                                 <div class="card-body">
-                                    <p class="card-text">Em nosso plano de suporte técnico para empresas, priorizamos um atendimento rápido e eficiente, oferecendo soluções remotas para resolver problemas na utilização de computadores.</p>
+                                    <h3 class="card-text">Oferecemos soluções completas em cabeamento estruturado e redes, garantindo a mais alta qualidade e segurança para o ambiente corporativo. Conte conosco para impulsionar a conectividade e a eficiência da sua empresa.</h3>
                                 </div>
                             </div>
                         </div>
@@ -64,23 +64,7 @@
                             <div class="card">
                                 <img src="img/Suporte.png" class="card-img-top" alt="...">
                                 <div class="card-body">
-                                    <p class="card-text">Em nosso plano de suporte técnico para empresas, quando necessário, também oferecemos atendimento presencial para situações que demandam intervenção física, garantindo uma abordagem completa e abrangente para resolver quaisquer questões técnicas que possam surgir.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 mb-3">
-                            <div class="card">
-                                <img src="img/Suporte.png" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                    <p class="card-text">Realizamos configuração e instalação de câmeras de segurança tanto em ambientes empresariais quanto residenciais, garantindo maior proteção e tranquilidade para você e seus entes queridos.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 mb-3">
-                            <div class="card">
-                                <img src="img/Suporte.png" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                    <p class="card-text">Realizamos reparos em computadores e notebooks para clientes individuais, além de oferecermos um plano especializado para empresas. Com o nosso plano empresarial de suporte técnico, garantimos tratativas periódicas para manter a tranquilidade da sua empresa no uso contínuo dos equipamentos.</p>
+                                    <h3 class="card-text">Nossos serviços de segurança da informação são a linha de defesa vital para proteger sua empresa contra ameaças cibernéticas. Com uma abordagem proativa e especializada, mantemos seus dados e sistemas seguros, garantindo a continuidade dos seus negócios sem interrupções.</h3>
                                 </div>
                             </div>
                         </div>
