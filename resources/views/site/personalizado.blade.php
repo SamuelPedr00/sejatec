@@ -14,7 +14,7 @@
     <header>
         <nav class="navbar col-12 m-auto navbar-expand-lg bg-body-tertiary fixed-top">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#"><img src="img/Logo.png" class="imgLogo"></a>
+                <a class="navbar-brand" href="/"><img src="img/Logo.png" class="imgLogo"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -31,10 +31,10 @@
                                 Serviços
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="sistemas">Sistemas de Gestão</a></li>
+                                <!-- <li><a class="dropdown-item" href="sistemas">Sistemas de Gestão</a></li> -->
                                 <li><a class="dropdown-item" href="personalizados">Criação de Sistemas</a></li>
                                 <li><a class="dropdown-item" href="suporte">Suporte de TI</a></li>
-                                <li><a class="dropdown-item" href="infraestrutura">Infraestrutura de TI</a></li>
+                                <!-- <li><a class="dropdown-item" href="infraestrutura">Infraestrutura de TI</a></li> -->
                             </ul>
                         </li>
                         
