@@ -26,22 +26,15 @@
                         <li class="nav-item mx-2">
                             <a class="nav-link active" aria-current="page" href="/contato">Contato</a>
                         </li>
-                        <li class="nav-item dropdown mx-2">
-                            <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Serviços
-                            </a>
-                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <!-- <li><a class="dropdown-item" href="sistemas">Sistemas de Gestão</a></li> -->
-                                <li><a class="dropdown-item" href="personalizados">Criação de Sistemas</a></li>
-                                <li><a class="dropdown-item" href="suporte">Suporte de TI</a></li>
-                                <!-- <li><a class="dropdown-item" href="infraestrutura">Infraestrutura de TI</a></li> -->
-                            </ul>
+                        <li class="nav-item mx-2">
+                            <a class="nav-link active" aria-current="page" href="/suporte">Suporte</a>
                         </li>
                     </ul>
                     <img src="img/Ideia.png" class="imgLogo d-none d-lg-block">
                 </div>
             </div>
         </nav>
+
     </header>
     <main class="mt-4 marginPerson">
         <div class="container-fluid">
@@ -56,7 +49,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">Solicite Orçamento por Whatsapp</h5>
                                     <p class="card-text">Solicite seu orçamento através do WhatsApp no número (62) 99304-4064 ou clique no botão abaixo.</p>
-                                    <a  href="https://api.whatsapp.com/send?phone=62993044064" target="_blank" class="btn btn-success">Vá para Whatsapp</a>
+                                    <a href="https://api.whatsapp.com/send?phone=62993044064" target="_blank" class="btn btn-success">Vá para Whatsapp</a>
                                 </div>
                             </div>
                         </div>
@@ -99,14 +92,14 @@
 </body>
 
 <script>
-function copyLink() {
-  var copyText = "vendas@sejatec.com.br";
-  navigator.clipboard.writeText(copyText).then(function() {
-    alert("Email copiado para a área de transferência: " + copyText);
-  }, function() {
-    alert("Erro ao copiar o email.");
-  });
-}
+    function copyLink() {
+        var copyText = "vendas@sejatec.com.br";
+        navigator.clipboard.writeText(copyText).then(function() {
+            alert("Email copiado para a área de transferência: " + copyText);
+        }, function() {
+            alert("Erro ao copiar o email.");
+        });
+    }
 </script>
 
 

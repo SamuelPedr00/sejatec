@@ -16,12 +16,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [\App\Http\Controllers\PrincipalController::class, 'index']);
 Route::get('/contato', [\App\Http\Controllers\ContatoController::class, 'index']);
-Route::get('/suporte', [\App\Http\Controllers\SuporteController::class, 'index']);
-Route::get('/infraestrutura', [\App\Http\Controllers\InfraController::class, 'index']);
-Route::get('/sistemas', [\App\Http\Controllers\SistemasController::class, 'index']);
-Route::get('/personalizados', [\App\Http\Controllers\PersonalizadoController::class, 'index']);
-Route::get('/suporteclient', [\App\Http\Controllers\SuporteClientController::class, 'index']);
-
+// Route::get('/suporte', [\App\Http\Controllers\SuporteController::class, 'index']);
 
 
 Route::fallback(function () {

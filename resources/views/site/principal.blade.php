@@ -26,24 +26,15 @@
                         <li class="nav-item mx-2">
                             <a class="nav-link active" aria-current="page" href="/contato">Contato</a>
                         </li>
-
-                        <li class="nav-item dropdown mx-2">
-                            <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Serviços
-                            </a>
-                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <!-- <li><a class="dropdown-item" href="sistemas">Sistemas de Gestão</a></li> -->
-                                <li><a class="dropdown-item" href="personalizados">Criação de Sistemas</a></li>
-                                <li><a class="dropdown-item" href="suporte">Suporte de TI</a></li>
-                                <!-- <li><a class="dropdown-item" href="infraestrutura">Infraestrutura de TI</a></li> -->
-                            </ul>
+                        <li class="nav-item mx-2">
+                            <a class="nav-link active" aria-current="page" href="/suporte">Suporte</a>
                         </li>
-
                     </ul>
                     <img src="img/Ideia.png" class="imgLogo d-none d-lg-block">
                 </div>
             </div>
         </nav>
+
     </header>
     <main class="mt-4 marginPerson">
         <div class="container-fluid">
@@ -67,7 +58,7 @@
                             </a>
                         </div> -->
                         <div class="col-md-6 my-3">
-                            <a href="personalizados">
+                            <a href="https://api.whatsapp.com/send?phone=62993044064" target="_blank">
                                 <div class="card text-bg-dark">
                                     <img src="img/Logo.png" class="card-img" alt="...">
                                     <div class="card-img-overlay text-center">
@@ -80,7 +71,7 @@
                             </a>
                         </div>
                         <div class="col-md-6 my-3">
-                            <a href="suporte" class="text-decoration-none">
+                            <a href="https://api.whatsapp.com/send?phone=62993044064" target="_blank" class="text-decoration-none">
                                 <div class="card text-bg-dark">
                                     <img src="img/Logo.png" class="card-img" alt="...">
                                     <div class="card-img-overlay text-center">

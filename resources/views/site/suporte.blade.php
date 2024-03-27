@@ -26,23 +26,15 @@
                         <li class="nav-item mx-2">
                             <a class="nav-link active" aria-current="page" href="/contato">Contato</a>
                         </li>
-                        <li class="nav-item dropdown mx-2">
-                            <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Serviços
-                            </a>
-                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <!-- <li><a class="dropdown-item" href="sistemas">Sistemas de Gestão</a></li> -->
-                                <li><a class="dropdown-item" href="personalizados">Criação de Sistemas</a></li>
-                                <li><a class="dropdown-item" href="suporte">Suporte de TI</a></li>
-                                <!-- <li><a class="dropdown-item" href="infraestrutura">Infraestrutura de TI</a></li> -->
-                            </ul>
+                        <li class="nav-item mx-2">
+                            <a class="nav-link active" aria-current="page" href="/suporte">Suporte</a>
                         </li>
-                        
                     </ul>
                     <img src="img/Ideia.png" class="imgLogo d-none d-lg-block">
                 </div>
             </div>
         </nav>
+
     </header>
     <main class="mt-4 marginPerson">
         <div class="container-fluid">
@@ -57,30 +49,6 @@
                                 <img src="img/Suporte.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <p class="card-text">Em nosso plano de suporte técnico para empresas, priorizamos um atendimento rápido e eficiente, oferecendo soluções remotas para resolver problemas na utilização de computadores.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 mb-3">
-                            <div class="card">
-                                <img src="img/Suporte.png" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                    <p class="card-text">Em nosso plano de suporte técnico para empresas, quando necessário, também oferecemos atendimento presencial para situações que demandam intervenção física, garantindo uma abordagem completa e abrangente para resolver quaisquer questões técnicas que possam surgir.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 mb-3">
-                            <div class="card">
-                                <img src="img/Suporte.png" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                    <p class="card-text">Realizamos configuração e instalação de câmeras de segurança tanto em ambientes empresariais quanto residenciais, garantindo maior proteção e tranquilidade para você e seus entes queridos.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 mb-3">
-                            <div class="card">
-                                <img src="img/Suporte.png" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                    <p class="card-text">Realizamos reparos em computadores e notebooks para clientes individuais, além de oferecermos um plano especializado para empresas. Com o nosso plano empresarial de suporte técnico, garantimos tratativas periódicas para manter a tranquilidade da sua empresa no uso contínuo dos equipamentos.</p>
                                 </div>
                             </div>
                         </div>
