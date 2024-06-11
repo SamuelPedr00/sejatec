@@ -15,7 +15,9 @@
         <nav class="navbar col-12 m-auto navbar-expand-lg bg-body-tertiary fixed-top">
             <div class="container-fluid">
                 <a class="navbar-brand" href="/"><img src="img/Logo.png" class="imgLogo"></a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
@@ -44,40 +46,37 @@
                 </div>
                 <div class="col-md-6 mt-2">
                     <div class="row">
-                        <!-- <div class="col-md-5 my-3">
-                            <a href="sistemas">
-                                <div class="card text-bg-dark">
-                                    <img src="img/Logo.png" class="card-img" alt="...">
-                                    <div class="card-img-overlay text-center">
-                                        <h5 class="card-title mb-4">Sistemas de Gestão Empresarial</h5>
-                                        <p class="card-text text-on-notebook">Sistemas de Gestão Financeira e Juridica para Empresas.</p>
-                                        <p class="card-text hide-on-notebook">Oferecemos sistemas de gestão empresarial para auxiliar no gerenciamento financeiro, jurídico da sua empresa. Conte conosco para simplificar a administração do seu negócio.</p>
-                                        <p class="card-text"><small>Seja tecnológico. Sejatec.</small></p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div> -->
+
                         <div class="col-md-6 my-3">
-                            <a href="https://api.whatsapp.com/send?phone=62993044064" target="_blank">
+                            <a href="https://api.whatsapp.com/send?phone=6299999999" target="_blank">
                                 <div class="card text-bg-dark">
                                     <img src="img/Logo.png" class="card-img" alt="...">
                                     <div class="card-img-overlay text-center">
                                         <h5 class="card-title mb-4">Criação de Sistemas Personalizados</h5>
-                                        <p class="card-text text-on-notebook">Criação de Sistemas personalizados com base na necessidade do Cliente.</p>
-                                        <p class="card-text hide-on-notebook">Desenvolvemos sistemas personalizados para atender às necessidades específicas do seu negócio, tanto para web quanto para dispositivos móveis. Conte conosco para criar soluções que se adequem perfeitamente às suas demandas.</p>
+                                        <p class="card-text text-on-notebook">Criação de Sistemas personalizados com
+                                            base na necessidade do Cliente.</p>
+                                        <p class="card-text hide-on-notebook">Desenvolvemos sistemas personalizados para
+                                            atender às necessidades específicas do seu negócio, tanto para web quanto
+                                            para dispositivos móveis. Conte conosco para criar soluções que se adequem
+                                            perfeitamente às suas demandas.</p>
                                         <p class="card-text"><small>Seja tecnológico. Sejatec.</small></p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-6 my-3">
-                            <a href="https://api.whatsapp.com/send?phone=62993044064" target="_blank" class="text-decoration-none">
+                            <a href="https://api.whatsapp.com/send?phone=6299999999" target="_blank"
+                                class="text-decoration-none">
                                 <div class="card text-bg-dark">
                                     <img src="img/Logo.png" class="card-img" alt="...">
                                     <div class="card-img-overlay text-center">
                                         <h5 class="card-title mb-4">Suporte de TI</h5>
-                                        <p class="card-text text-on-notebook">Manutenção de Computadores, Instalação de cameras, Atendimento remoto e presencial.</p>
-                                        <p class="card-text hide-on-notebook">Fornecemos suporte de TI completo, incluindo manutenção de computadores, instalação de câmeras de segurança e atendimento tanto presencial quanto remoto. Conte conosco para resolver suas necessidades tecnológicas de forma rápida e eficiente</p>
+                                        <p class="card-text text-on-notebook">Manutenção de Computadores, Instalação de
+                                            cameras, Atendimento remoto e presencial.</p>
+                                        <p class="card-text hide-on-notebook">Fornecemos suporte de TI completo,
+                                            incluindo manutenção de computadores, instalação de câmeras de segurança e
+                                            atendimento tanto presencial quanto remoto. Conte conosco para resolver suas
+                                            necessidades tecnológicas de forma rápida e eficiente</p>
                                         <p class="card-text"><small>Seja tecnológico. Sejatec.</small></p>
                                     </div>
                                 </div>
@@ -87,24 +86,15 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <h5 class="card-title">Solicite Orçamento por Whatsapp</h5>
-                                    <p class="card-text">Solicite agora mesmo seu orçamento através do WhatsApp, utilizando o número (62) 99304-4064, ou simplesmente clique no botão abaixo para iniciar o processo.</p>
-                                    <a href="https://api.whatsapp.com/send?phone=62993044064" target="_blank" class="btn btn-success">Vá para Whatsapp</a>
+                                    <p class="card-text">Solicite agora mesmo seu orçamento através do WhatsApp,
+                                        utilizando o número (62) 99999-9999, ou simplesmente clique no botão abaixo para
+                                        iniciar o processo.</p>
+                                    <a href="https://api.whatsapp.com/send?phone=6299999999" target="_blank"
+                                        class="btn btn-success">Vá para Whatsapp</a>
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="col-md-5 my-3">
-                            <a href="infraestrutura">
-                                <div class="card text-bg-dark">
-                                    <img src="img/Logo.png" class="card-img" alt="...">
-                                    <div class="card-img-overlay text-center">
-                                        <h5 class="card-title mb-4">Infraestrutura de TI</h5>
-                                        <p class="card-text text-on-notebook">Infraestrutura de Rede, Gerenciamento de servidores, Backup, Monitoramento e etc...</p>
-                                        <p class="card-text hide-on-notebook">Planejamos e implementamos soluções completas de infraestrutura de TI para sua empresa, incluindo cabeamento estruturado, gerenciamento de servidores, backup, monitoramento e segurança da informação. Conte conosco para garantir a estabilidade e segurança do seu ambiente tecnológico.</p>
-                                        <p class="card-text"><small>Seja tecnológico. Sejatec.</small></p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div> -->
+
                     </div>
                 </div>
             </div>
@@ -119,14 +109,16 @@
                 </div>
                 <div class="col-md-4 col-12 text-center-cellfone">
                     <h5 class="text-dark">Contato</h5>
-                    <p>Telefone: (62) 99304-4064</p>
-                    <p>Email: vendas@sejatec.com.br</p>
+                    <p>Telefone: (62) 99999-9999</p>
+                    <p>Email: vendas@email.com</p>
                 </div>
                 <div class="col-md-5 col-12 text-center-cellfone">
                     <h5 class="text-dark">Quem Somos</h5>
 
                     <p>Na Sejatec, transformamos ideias em inovação. Seja tecnológico. Sejatec.</p>
-                    <p>Nosso objetivo é trazer o melhor da tecnologia para o seu mundo, adaptando-nos às suas necessidades individuais. Conte conosco para oferecer as melhores soluções tecnológicas, sob medida para você</p>
+                    <p>Nosso objetivo é trazer o melhor da tecnologia para o seu mundo, adaptando-nos às suas
+                        necessidades individuais. Conte conosco para oferecer as melhores soluções tecnológicas, sob
+                        medida para você</p>
                 </div>
             </div>
         </div>

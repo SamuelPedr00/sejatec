@@ -48,8 +48,8 @@
                             <div class="card">
                                 <div class="card-body">
                                     <h5 class="card-title">Solicite Orçamento por Whatsapp</h5>
-                                    <p class="card-text">Solicite seu orçamento através do WhatsApp no número (62) 99304-4064 ou clique no botão abaixo.</p>
-                                    <a href="https://api.whatsapp.com/send?phone=62993044064" target="_blank" class="btn btn-success">Vá para Whatsapp</a>
+                                    <p class="card-text">Solicite seu orçamento através do WhatsApp no número (62) 99999-9999 ou clique no botão abaixo.</p>
+                                    <a href="https://api.whatsapp.com/send?phone=62999999999" target="_blank" class="btn btn-success">Vá para Whatsapp</a>
                                 </div>
                             </div>
                         </div>
@@ -57,7 +57,7 @@
                             <div class="card">
                                 <div class="card-body">
                                     <h5 class="card-title">Solicite Orçamento por Email</h5>
-                                    <p class="card-text">Solicite um orçamento através do nosso e-mail: vendas@sejatec.com.br</p>
+                                    <p class="card-text">Solicite um orçamento através do nosso e-mail: vendas@email.com</p>
                                     <button class="btn btn-secondary" onclick="copyLink()">Clique para Copiar o Email</button>
                                 </div>
                             </div>
@@ -76,8 +76,8 @@
                 </div>
                 <div class="col-md-4 col-12 text-center-cellfone">
                     <h5 class="text-dark">Contato</h5>
-                    <p>Telefone: (62) 99304-4064</p>
-                    <p>Email: vendas@sejatec.com.br</p>
+                    <p>Telefone: (62) 99999-9999</p>
+                    <p>Email: vendas@email.com</p>
                 </div>
                 <div class="col-md-5 col-12 text-center-cellfone">
                     <h5 class="text-dark">Quem Somos</h5>
@@ -93,7 +93,7 @@
 
 <script>
     function copyLink() {
-        var copyText = "vendas@sejatec.com.br";
+        var copyText = "vendas@email.com";
         navigator.clipboard.writeText(copyText).then(function() {
             alert("Email copiado para a área de transferência: " + copyText);
         }, function() {
